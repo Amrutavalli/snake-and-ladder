@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+
+
+
+           PPPPPPPPPPPPPPPPP    LLLL                 AAAAAAAAAAAAAAAAA    YYYY         YYYY    EEEEEEEEEEEEEEEEE    RRRRRRRRRRRRRRRRR          111111
+           PPPPPPPPPPPPPPPPP    LLLL                 AAAAAAAAAAAAAAAAA    YYYY         YYYY    EEEEEEEEEEEEEEEEE    RRRRRRRRRRRRRRRRR         1111111
+           PPPP         PPPP    LLLL                 AAAA         AAAA    YYYY         YYYY    EEEE                 RRRR         RRRR        111  111
+           PPPP         PPPP    LLLL                 AAAA         AAAA    YYYY         YYYY    EEEE                 RRRR         RRRR       111   111
+           PPPP         PPPP    LLLL                 AAAA         AAAA    YYYY         YYYY    EEEE                 RRRR         RRRR      111    111
+           PPPPPPPPPPPPPPPPP    LLLL                 AAAAAAAAAAAAAAAAA    YYYYYYYYYYYYYYYYY    EEEEEEEEEEEEEEEEE    RRRRRRRRRRRRRRRRR             111
+           PPPPPPPPPPPPPPPPP    LLLL                 AAAAAAAAAAAAAAAAA    YYYYYYYYYYYYYYYYY    EEEEEEEEEEEEEEEEE    RRRRRRRRRRRRRRRRR             111
+           PPPP                 LLLL                 AAAA         AAAA                 YYYY    EEEE                 RRRRRRRRRR                    111
+           PPPP                 LLLL                 AAAA         AAAA                 YYYY    EEEE                 RRRR   RRRR                   111
+           PPPP                 LLLL                 AAAA         AAAA                 YYYY    EEEE                 RRRR     RRRR                 111
+           PPPP                 LLLLLLLLLLLLLLLLL    AAAA         AAAA           YYYYYYYYYY    EEEEEEEEEEEEEEEEE    RRRR       RRRR      11111111111111111111
+           PPPP                 LLLLLLLLLLLLLLLLL    AAAA         AAAA           YYYYYYYYYY    EEEEEEEEEEEEEEEEE    RRRR         RRRR    11111111111111111111
+
+
+
+
+                                       WWWW                      WWWW    IIIIIIIIIIIIIIIII    NNNNNNNN         NNNN
+                                       WWWW                      WWWW    IIIIIIIIIIIIIIIII    NNNNNNNN         NNNN
+                                       WWWW         WWWW         WWWW          IIII           NNNN NNNN        NNNN
+                                       WWWW         WWWW         WWWW          IIII           NNNN  NNNN       NNNN
+                                       WWWW         WWWW         WWWW          IIII           NNNN   NNNN      NNNN
+                                       WWWW         WWWW         WWWW          IIII           NNNN    NNNN     NNNN
+                                       WWWW         WWWW         WWWW          IIII           NNNN     NNNN    NNNN
+                                       WWWW         WWWW         WWWW          IIII           NNNN      NNNN   NNNN
+                                       WWWW         WWWW         WWWW          IIII           NNNN       NNNN  NNNN
+                                       WWWW         WWWW         WWWW          IIII           NNNN        NNNN NNNN
+                                       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW    IIIIIIIIIIIIIIIII    NNNN         NNNNNNNN
+                                       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW    IIIIIIIIIIIIIIIII    NNNN         NNNNNNNN
